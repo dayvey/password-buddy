@@ -1,0 +1,16 @@
+{
+  "name": "password-buddy",
+  "productName": "Password Buddy",
+  "version": "1.0.0",
+  "description": "App to store your passwords in.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "David-Sandor Papp",
+  "license": "ISC",
+  "dependencies": {
+    "electronmon": "^2.0.2",
+    "toastify-js": "^1.12.0"
+  }
+}
